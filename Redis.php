@@ -2,7 +2,7 @@
 
 namespace Galvani\Redis;
 
-class RedisException extends Exception {
+class RedisException extends \Exception {
 
 }
 
